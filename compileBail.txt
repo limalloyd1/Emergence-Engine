@@ -1,0 +1,3 @@
+clang++ -std=c++17 -Wall -Wextra -o AgentsClass automata.cpp
+g++ -std=c++17 -Wall -Wextra -pedantic automaton.cpp -o automaton
+g++ -std=c++17 -Wall -Wextra -pedantic mapgen.cpp -o mapgen
