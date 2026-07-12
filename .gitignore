@@ -1,18 +1,20 @@
-# Compiled output
+# Compiled files
 *.o
 *.out
 *.exe
-automaton
 
 # Build directories
 build/
 bin/
 
-# Debug files
+# Generated executable
+automaton
+
+# Debug output
 *.log
 core
 
-# Editors
+# Editor files
 *.swp
 *.swo
 .vscode/
