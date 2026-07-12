@@ -1,4 +1,4 @@
-*See compile bail for compilation commands
+*See compile bail for compilation commands - updated codebase stored in Agents dir
 
 EMERGENCE ENGINE 
 Inspired by Conway's Game of Life, the emergence engine stands as a cellular simulation that displays simple molecular interactions.
