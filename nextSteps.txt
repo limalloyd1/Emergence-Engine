@@ -1,0 +1,8 @@
+1. Implement UnionFind organization based on opposite polarity logic in new World class [DONE] 
+2. Output unionfind into ascii text -> render new frames based on updated UF. Out put could be routed as frames intaking/rendered in an SDL window. For each event_frame run new QuickUnion to join particles, after certain threshold is met particles should join to make components. This "evolution" logic is what eventually should lead to Thunder/Automaton output [DONE]
+
+3. Add Interface to display frame, agents, interactions, connection, average memory size, etc. 
+4. Add extra land items for new interactions (grass, build characters? (Ex: :#!), rocks, etc)
+5. Add connections + like/repel logic (add motivations to move function) -> helper function could be used to be conditionally called based on proximity 
+6. Automate map selection
+

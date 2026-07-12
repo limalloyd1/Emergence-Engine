@@ -1,0 +1,5 @@
+Automata moving logic mus now be implemented/added. Positions are spawning correctly but frame stays static. In an SDL window or simple while loop Automata should move and interact with the world aroudn them based on share and respond methods. 
+
+The simple concept comes from the charge relationship on our map -> if an agent is right next to another agent of opposite charge they should share and respond with eachother before moving on. Passive particle movement should be established by a set increment of 1-2 spaces. Each new frame, a particle should move at least one space (in any direction) this can facilitate our charge relationship to encourage more interactions.
+
+Text map logic also should be automated for preparation. An algorithm to output 5-10 or 25 maps in our map directory could provide useful case studies for our terminal based iteration. The algorithm should output pixels based on a sense of uniformity that does not produce compelete random landscapes. Landscapes should follow a recognizable logic that can be further expanded on once project moves to 3D
