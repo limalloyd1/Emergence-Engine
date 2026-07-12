@@ -1,0 +1,19 @@
+# Compiled output
+*.o
+*.out
+*.exe
+automaton
+
+# Build directories
+build/
+bin/
+
+# Debug files
+*.log
+core
+
+# Editors
+*.swp
+*.swo
+.vscode/
+.idea/
